@@ -1,1 +1,1 @@
-# Deis Hello World Application
+Hello World Application
