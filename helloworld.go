@@ -21,6 +21,6 @@ func main() {
 
 func hello(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%s %s\n", req.Proto, req.URL)
-	fmt.Fprintln(w, "Welcome to Zolon Tech!")
-	fmt.Fprintln(w, "Hello World Docker with GO")
+	fmt.Fprintln(w, "Welcome to Zolon Tech!!!")
+	fmt.Fprintln(w, "Hello World AWS Docker with GO")
 }
