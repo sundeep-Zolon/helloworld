@@ -1,1 +1,1 @@
-Hello World Application
+Hello World Application with Go Language
